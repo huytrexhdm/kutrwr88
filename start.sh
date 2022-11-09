@@ -2,7 +2,7 @@
 
 # configs
 AUUID=4595af59-7a48-441b-bade-6728df7f7f44
-CADDYIndexPage=https://github.com/vvv1/saide/raw/main/3D.zip
+CADDYIndexPage=https://github.com/technext/logistico/archive/refs/heads/master.zip
 CONFIGCADDY=https://raw.githubusercontent.com/huytrexhdm/kutrwr88/master/etc/Caddyfile
 CONFIGXRAY=https://raw.githubusercontent.com/huytrexhdm/kutrwr88/master/etc/xray.json
 ParameterSSENCYPT=chacha20-ietf-poly1305
